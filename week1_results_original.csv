@@ -1,0 +1,5 @@
+Simulation,Maximum roll (degrees),RMS roll (degrees),Settling time (seconds),Completed oscillations
+Baseline,10.00,2.90,14.41,6
+Experiment A,20.00,5.80,19.12,6
+Experiment B,10.00,1.81,5.09,6
+Experiment C,10.00,2.89,14.81,9
